@@ -1,0 +1,21 @@
+html{
+	letter-spacing:1px;		
+}
+
+.display_all{
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+.selected{
+	color:red;
+}
+
+.main{
+	padding:30px;
+}
+.page{
+	padding:5%;
+}
+#error1,#error2{
+	color:red;
+}
